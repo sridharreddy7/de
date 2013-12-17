@@ -16,7 +16,7 @@
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>osCommerce,(Sridhar) Open Source E-Commerce Solutions</title>
+<title>osCommerce, Open Source E-Commerce Solutions</title>
 <meta name="robots" content="noindex,nofollow" />
 <link rel="icon" type="image/png" href="images/oscommerce_icon.png" />
 
